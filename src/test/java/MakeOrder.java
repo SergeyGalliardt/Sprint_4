@@ -96,3 +96,4 @@ public class MakeOrder {
         CHROME, FIREFOX;
     }
 }
+//тестовый комментарий
